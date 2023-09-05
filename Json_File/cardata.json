@@ -1,0 +1,37 @@
+[
+  {
+      "id":1,
+      "price":508,
+      "type": "Sedan",
+      "image":"images/verna.png",
+      "name": "Hyundai Verna"
+  },
+  {
+    "id":2,
+    "price":898,
+    "type": "SUV",
+    "image":"images/scropio_n.png",
+    "name": "Mahindra Scropio-N"
+  },
+  {
+    "id":3,
+    "price":765,
+    "type": "Compact-SUV",
+    "image":"images/ecosport.png",
+    "name": "Ford EcoSport"
+  },
+  {
+    "id":4,
+    "price":400,
+    "type": "Hatch-Back",
+    "image":"images/baleno.png",
+    "name": "Suzuki Baleno"
+  },
+  {
+    "id":5,
+    "price":1900,
+    "type": "Traveller",
+    "image":"images/traveller.png",
+    "name": "Force Traveller"
+  }
+]
